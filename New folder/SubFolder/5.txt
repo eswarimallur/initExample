@@ -1,0 +1,3 @@
+text file to add to local repository using git add .
+
+modified this file to test git add *

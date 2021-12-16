@@ -1,0 +1,1 @@
+File created to test gir add . instead of git add -A and git add --all
